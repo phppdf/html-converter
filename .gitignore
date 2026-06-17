@@ -1,5 +1,6 @@
 /.claude
 /.idea
+/.phpbench-report
 /.phpcs.cache
 /.phpstan-tmp
 /.phpunit.cache
