@@ -7,7 +7,6 @@ Convert HTML and CSS into PDF documents on top of [phppdf/phppdf](https://github
 - PHP 8.4+
 - `ext-dom`
 - `ext-libxml`
-- `ext-mbstring`
 
 ## Installation
 
